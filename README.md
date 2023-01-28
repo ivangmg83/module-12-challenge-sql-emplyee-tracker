@@ -1,1 +1,1 @@
-# module-12-challenge-sql-emplyee-tracker
+# module-12-sql-emplyee-tracker
